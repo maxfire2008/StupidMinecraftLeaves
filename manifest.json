@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Stupid Leaves Pack",
+    "name": "stupid_leaves_pack",
+    "uuid": "D59CF477-CBCC-41B7-B9C4-92702BB1FE98"
+  },
+  "modules": [
+    {
+      "description": "Stupid Leaves Module",
+      "type": "data",
+      "uuid": "BFE68B37-6E3E-4B83-A679-28A119B08A7B",
+      "version": [0, 0, 0]
+    }
+  ]
+}
