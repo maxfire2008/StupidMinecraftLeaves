@@ -9,8 +9,7 @@
     {
       "type": "item",
       "name": "minecraft:diamond",
-      "weight": 1,
-      "functions":
+      "weight": 1
     }
   ]
 }
